@@ -1,0 +1,712 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+ 
+}
+a{
+  text-decoration: none;
+}
+body{
+  font-family: arial;
+}
+
+
+/*1st card start*/
+.card{
+  border: 1px solid rgb(117, 216, 97);
+  width: 300px;
+  display: inline-block ;
+  margin: 5px  5px;
+}
+
+img{
+ width: 100%;
+
+}
+
+.card .text{
+  padding: 20px 10px;
+}
+.card .text h3{
+  margin-bottom:10px ;
+}
+.card .text p{
+  font-size: 20px;
+  font-weight: 800;
+  color: red;
+}
+.card .text .d-price{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555;
+  text-decoration: line-through;
+   
+}
+.card:hover .text .rating{
+  transition:0.25s;
+}
+.card:hover .text .rating{
+color: orange;
+font-size: 18;
+  
+
+} 
+.card .text .button{
+  display: block;
+  border: 1px solid red;
+  padding: 15px 0;
+  text-align: center ;
+  color: red;
+  margin-top:10px ;
+  transition:0.35s ;
+}
+.card:hover .text .button{
+  background-color: red;
+  color: white;
+}
+/*1st card end*/
+
+
+
+/*2st card start*/
+
+.card2{
+  border: 1px solid rgb(117, 216, 97);
+  width: 300px;
+  display: inline-block ;
+  margin: 5px  5px;
+}
+
+img{
+ width: 100%;
+
+}
+
+.card2 .text{
+  padding: 20px 10px;
+}
+.card2 .text h3{
+  margin-bottom:10px ;
+}
+.card2 .text p{
+  font-size: 20px;
+  font-weight: 800;
+  color: red;
+}
+.card2 .text .d-price{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555;
+  text-decoration: line-through;
+   
+}
+.card2:hover .text .rating{
+  transition:0.25s;
+}
+.card2:hover .text .rating{
+color: orange;
+font-size: 18;
+  
+
+} 
+.card2 .text .button{
+  display: block;
+  border: 1px solid red;
+  padding: 15px 0;
+  text-align: center ;
+  color: red;
+  margin-top:10px ;
+  transition:0.35s ;
+}
+.card2:hover .text .button{
+  background-color: red;
+  color: white;
+}
+
+/*2st card end*/
+
+
+
+/*3rd card start*/
+
+.card3{
+  border: 1px solid rgb(117, 216, 97);
+  width: 300px;
+  display: inline-block ;
+  margin: 5px  5px;
+}
+
+img{
+ width: 100%;
+
+}
+
+.card3 .text{
+  padding: 20px 10px;
+}
+.card3 .text h3{
+  margin-bottom:10px ;
+}
+.card3 .text p{
+  font-size: 20px;
+  font-weight: 800;
+  color: red;
+}
+.card3 .text .d-price{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555;
+  text-decoration: line-through;
+   
+}
+.card3:hover .text .rating{
+  transition:0.25s;
+}
+.card3:hover .text .rating{
+color: orange;
+font-size: 18;
+  
+
+} 
+.card3 .text .button{
+  display: block;
+  border: 1px solid red;
+  padding: 15px 0;
+  text-align: center ;
+  color: red;
+  margin-top:10px ;
+  transition:0.35s ;
+}
+.card3:hover .text .button{
+  background-color: red;
+  color: white;
+}
+
+/*3rd card end*/
+
+
+/*4th card start*/
+
+.card4{
+  border: 1px solid rgb(117, 216, 97);
+  width: 300px;
+  display: inline-block ;
+  margin: 5px  5px;
+}
+
+img{
+ width: 100%;
+
+}
+
+.card4 .text{
+  padding: 20px 10px;
+}
+.card4 .text h3{
+  margin-bottom:10px ;
+}
+.card4 .text p{
+  font-size: 20px;
+  font-weight: 800;
+  color: red;
+}
+.card4 .text .d-price{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555;
+  text-decoration: line-through;
+   
+}
+.card4:hover .text .rating{
+  transition:0.25s;
+}
+.card4:hover .text .rating{
+color: orange;
+font-size: 18;
+  
+
+} 
+.card4 .text .button{
+  display: block;
+  border: 1px solid red;
+  padding: 15px 0;
+  text-align: center ;
+  color: red;
+  margin-top:10px ;
+  transition:0.35s ;
+}
+.card4:hover .text .button{
+  background-color: red;
+  color: white;
+}
+
+/* 4th  card end*/
+
+
+
+/*5th card start*/
+
+.card5{
+  border: 1px solid rgb(117, 216, 97);
+  width: 300px;
+  display: inline-block ;
+  margin: 5px  5px;
+}
+
+img{
+ width: 100%;
+
+}
+
+.card5 .text{
+  padding: 20px 10px;
+}
+.card5 .text h3{
+  margin-bottom:10px ;
+}
+.card5 .text p{
+  font-size: 20px;
+  font-weight: 800;
+  color: red;
+}
+.card5 .text .d-price{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555;
+  text-decoration: line-through;
+   
+}
+.card5:hover .text .rating{
+  transition:0.25s;
+}
+.card5:hover .text .rating{
+color: orange;
+font-size: 18;
+  
+
+} 
+.card5 .text .button{
+  display: block;
+  border: 1px solid red;
+  padding: 15px 0;
+  text-align: center ;
+  color: red;
+  margin-top:10px ;
+  transition:0.35s ;
+}
+.card5:hover .text .button{
+  background-color: red;
+  color: white;
+}
+
+/* 5th  card end*/
+
+
+/*6th card start*/
+
+.card6{
+  border: 1px solid rgb(117, 216, 97);
+  width: 300px;
+  display: inline-block ;
+  margin: 5px  5px;
+}
+
+img{
+ width: 100%;
+
+}
+
+.card6 .text{
+  padding: 20px 10px;
+}
+.card6 .text h3{
+  margin-bottom:10px ;
+}
+.card6 .text p{
+  font-size: 20px;
+  font-weight: 800;
+  color: red;
+}
+.card6 .text .d-price{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555;
+  text-decoration: line-through;
+   
+}
+.card6:hover .text .rating{
+  transition:0.25s;
+}
+.card6:hover .text .rating{
+color: orange;
+font-size: 18;
+  
+
+} 
+.card6 .text .button{
+  display: block;
+  border: 1px solid red;
+  padding: 15px 0;
+  text-align: center ;
+  color: red;
+  margin-top:10px ;
+  transition:0.35s ;
+}
+.card6:hover .text .button{
+  background-color: red;
+  color: white;
+}
+
+/* 6th  card end*/
+
+
+
+/*7th card start*/
+
+.card7{
+  border: 1px solid rgb(117, 216, 97);
+  width: 300px;
+  display: inline-block ;
+  margin: 5px  5px;
+}
+
+img{
+ width: 100%;
+
+}
+
+.card7 .text{
+  padding: 20px 10px;
+}
+.card7 .text h3{
+  margin-bottom:10px ;
+}
+.card7 .text p{
+  font-size: 20px;
+  font-weight: 800;
+  color: red;
+}
+.card7 .text .d-price{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555;
+  text-decoration: line-through;
+   
+}
+.card7:hover .text .rating{
+  transition:0.25s;
+}
+.card7:hover .text .rating{
+color: orange;
+font-size: 18;
+  
+
+} 
+.card7 .text .button{
+  display: block;
+  border: 1px solid red;
+  padding: 15px 0;
+  text-align: center ;
+  color: red;
+  margin-top:10px ;
+  transition:0.35s ;
+}
+.card7:hover .text .button{
+  background-color: red;
+  color: white;
+}
+
+/* 7th  card end*/
+
+
+
+/*8th card start*/
+
+.card8{
+  border: 1px solid rgb(117, 216, 97);
+  width: 300px;
+  display: inline-block ;
+  margin: 5px  5px;
+}
+
+img{
+ width: 100%;
+
+}
+
+.card8 .text{
+  padding: 20px 10px;
+}
+.card8 .text h3{
+  margin-bottom:10px ;
+}
+.card8 .text p{
+  font-size: 20px;
+  font-weight: 800;
+  color: red;
+}
+.card8 .text .d-price{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555;
+  text-decoration: line-through;
+   
+}
+.card8:hover .text .rating{
+  transition:0.25s;
+}
+.card8:hover .text .rating{
+color: orange;
+font-size: 18;
+  
+
+} 
+.card8 .text .button{
+  display: block;
+  border: 1px solid red;
+  padding: 15px 0;
+  text-align: center ;
+  color: red;
+  margin-top:10px ;
+  transition:0.35s ;
+}
+.card8:hover .text .button{
+  background-color: red;
+  color: white;
+}
+
+/* 8th  card end*/
+
+
+
+/*9th card start*/
+
+.card9{
+  border: 1px solid rgb(117, 216, 97);
+  width: 300px;
+  display: inline-block ;
+  margin: 5px  5px;
+}
+
+img{
+ width: 100%;
+
+}
+
+.card9 .text{
+  padding: 20px 10px;
+}
+.card9 .text h3{
+  margin-bottom:10px ;
+}
+.card9 .text p{
+  font-size: 20px;
+  font-weight: 800;
+  color: red;
+}
+.card9 .text .d-price{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555;
+  text-decoration: line-through;
+   
+}
+.card9:hover .text .rating{
+  transition:0.25s;
+}
+.card9:hover .text .rating{
+color: orange;
+font-size: 18;
+  
+
+} 
+.card9 .text .button{
+  display: block;
+  border: 1px solid red;
+  padding: 15px 0;
+  text-align: center ;
+  color: red;
+  margin-top:10px ;
+  transition:0.35s ;
+}
+.card9:hover .text .button{
+  background-color: red;
+  color: white;
+}
+
+/* 9th  card end*/
+
+
+/*10th card start*/
+
+.card10{
+  border: 1px solid rgb(117, 216, 97);
+  width: 300px;
+  display: inline-block ;
+  margin: 5px  5px;
+}
+
+img{
+ width: 100%;
+
+}
+
+.card10 .text{
+  padding: 20px 10px;
+}
+.card10 .text h3{
+  margin-bottom:10px ;
+}
+.card10 .text p{
+  font-size: 20px;
+  font-weight: 800;
+  color: red;
+}
+.card10 .text .d-price{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555;
+  text-decoration: line-through;
+   
+}
+.card10:hover .text .rating{
+  transition:0.25s;
+}
+.card10:hover .text .rating{
+color: orange;
+font-size: 18;
+  
+
+} 
+.card10 .text .button{
+  display: block;
+  border: 1px solid red;
+  padding: 15px 0;
+  text-align: center ;
+  color: red;
+  margin-top:10px ;
+  transition:0.35s ;
+}
+.card10:hover .text .button{
+  background-color: red;
+  color: white;
+}
+
+/* 10th  card end*/
+
+
+/*11th card start*/
+
+.card11{
+  border: 1px solid rgb(117, 216, 97);
+  width: 300px;
+  display: inline-block ;
+  margin: 5px  5px;
+}
+
+img{
+ width: 100%;
+
+}
+
+.card11 .text{
+  padding: 20px 10px;
+}
+.card11 .text h3{
+  margin-bottom:10px ;
+}
+.card11 .text p{
+  font-size: 20px;
+  font-weight: 800;
+  color: red;
+}
+.card11 .text .d-price{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555;
+  text-decoration: line-through;
+   
+}
+.card11:hover .text .rating{
+  transition:0.25s;
+}
+.card11:hover .text .rating{
+color: orange;
+font-size: 18;
+  
+
+} 
+.card11 .text .button{
+  display: block;
+  border: 1px solid red;
+  padding: 15px 0;
+  text-align: center ;
+  color: red;
+  margin-top:10px ;
+  transition:0.35s ;
+}
+.card11:hover .text .button{
+  background-color: red;
+  color: white;
+}
+
+/* 11th  card end*/
+
+/*12th card start*/
+
+.card12{
+  border: 1px solid rgb(117, 216, 97);
+  width: 300px;
+  display: inline-block ;
+  margin: 5px  5px;
+}
+
+img{
+ width: 100%;
+
+}
+
+.card12 .text{
+  padding: 20px 10px;
+}
+.card12 .text h3{
+  margin-bottom:10px ;
+}
+.card12 .text p{
+  font-size: 20px;
+  font-weight: 800;
+  color: red;
+}
+.card12 .text .d-price{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555;
+  text-decoration: line-through;
+   
+}
+.card12:hover .text .rating{
+  transition:0.25s;
+}
+.card12:hover .text .rating{
+color: orange;
+font-size: 18;
+  
+
+} 
+.card12 .text .button{
+  display: block;
+  border: 1px solid red;
+  padding: 15px 0;
+  text-align: center ;
+  color: red;
+  margin-top:10px ;
+  transition:0.35s ;
+}
+.card12:hover .text .button{
+  background-color: red;
+  color: white;
+}
+
+/* 12th  card end*/
+
